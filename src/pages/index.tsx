@@ -18,7 +18,12 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            Docusaurus Tutorial - 5min ⏱️
+            開始閱讀
+          </Link>
+          <Link
+            className="margin-left--md button button--info button--lg"
+            to="https://forms.gle/rqahTzwQaamkp7eb9">
+            申請 Infra Labs
           </Link>
         </div>
       </div>
