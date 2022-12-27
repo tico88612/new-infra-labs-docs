@@ -21,7 +21,7 @@ title: Usecase 使用案例
     - [Jerry Yang's Blog](https://blog.yangjerry.tw/categories/IT-%E9%90%B5%E4%BA%BA%E8%B3%BD/2022/)
     - [iThome](https://ithelp.ithome.com.tw/users/20112934/ironman/5640)
 - [2022 iThome 鐵人賽《5G 核心網路與雲原生開發之亂彈阿翔》](https://ithelp.ithome.com.tw/articles/10306986)
-- [UniCourse 大學課程資訊交流平臺](unicourse.tw)
+- [UniCourse 大學課程資訊交流平臺](https://unicourse.tw)
     - [GitHub](https://github.com/UniCourse-TW)
     - [g0v 專案](https://sch001.g0v.tw/dash/prj/PHfxJKR2hpg7f9rt58i9g6WZ_ZRo08)
 - [SCIST 南臺灣學生資訊社群](https://scist.org)
