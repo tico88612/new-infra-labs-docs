@@ -69,7 +69,16 @@ const config = {
             position: 'left',
             label: 'Docs',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {
+            to: '/blog',
+            label: 'Blog',
+            position: 'left'
+          },
+          {
+            to: '/usecase',
+            label: 'Usecase',
+            position: 'left'
+          },
           {
             href: 'https://github.com/cloud-native-taiwan/new-infra-labs-docs',
             label: 'GitHub',
