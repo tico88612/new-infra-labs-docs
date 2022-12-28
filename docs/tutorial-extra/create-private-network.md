@@ -25,6 +25,8 @@ OpenStack 允許各個用戶在自己專案建立自己的私有網路，私有�
     - DHCP 地址池
     - DNS 位置
 
+![](images/create_network.png)
+
 ## 建立路由器
 
 路由器是用來做外部網路和私有網路中的 SNAT/DNAT，要透過路由器才能在 VM 上聯結浮動 IP

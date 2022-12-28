@@ -1,7 +1,3 @@
----
-sidebar_position: 3
----
-
 # 建立 VM (Launch Instances)
 
 首先，進入運算 -> [雲實例](https://openstack.cloudnative.tw/project/instances/)，點擊右方 **發動雲實例** 相繼輸入以下內容

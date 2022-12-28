@@ -1,7 +1,3 @@
----
-sidebar_position: 1
----
-
 # 上傳 SSH 金鑰
 
 OpenStack 上所有 VM 預設都是使用 SSH Public Key 進行 SSH 認證，因此必須建立或上傳自己的 SSH Public Key 以便在 VM 建立的過程中注入。

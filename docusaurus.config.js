@@ -17,7 +17,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'cloud-native-taiwan', // Usually your GitHub org/user name.
-  projectName: 'new-infra-labs-docs', // Usually your repo name.
+  projectName: 'infra-labs-docs', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -37,14 +37,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/cloud-native-taiwan/new-infra-labs-docs/tree/main/',
+            'https://github.com/cloud-native-taiwan/infra-labs-docs/tree/main/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/cloud-native-taiwan/new-infra-labs-docs/tree/main/',
+            'https://github.com/cloud-native-taiwan/infra-labs-docs/tree/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -70,6 +70,12 @@ const config = {
             label: 'Docs',
           },
           {
+            type: 'doc',
+            docId: 'self-paced-labs',
+            label: 'Labs',
+            position: 'left'
+          },
+          {
             to: '/blog',
             label: 'Blog',
             position: 'left'
@@ -80,7 +86,7 @@ const config = {
             position: 'left'
           },
           {
-            href: 'https://github.com/cloud-native-taiwan/new-infra-labs-docs',
+            href: 'https://github.com/cloud-native-taiwan/infra-labs-docs',
             label: 'GitHub',
             position: 'right',
           },
@@ -95,6 +101,18 @@ const config = {
               {
                 label: '開始使用 Openstack',
                 to: '/docs/intro',
+              },
+              {
+                label: '基礎教學',
+                to: '/docs/category/基礎教學',
+              },
+              {
+                label: '進階教學',
+                to: '/docs/category/進階教學',
+              },
+              {
+                label: 'FAQ',
+                to: '/docs/faq',
               },
             ],
           },
