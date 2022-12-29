@@ -44,6 +44,10 @@ const sidebars = {
     },
     'faq',
   ],
+  architecture: [
+    'architecture/network',
+    'architecture/iaas',
+  ],
   self_paced_labs: [
     'self-paced-labs',
     {

@@ -76,6 +76,12 @@ const config = {
             position: 'left'
           },
           {
+            type: 'doc',
+            docId: 'architecture/network',
+            position: 'left',
+            label: "Architecture"
+          },
+          {
             to: '/blog',
             label: 'Blog',
             position: 'left'
@@ -88,6 +94,10 @@ const config = {
           {
             href: 'https://github.com/cloud-native-taiwan/Infra-Labs-Docs',
             label: 'GitHub',
+            position: 'right',
+          },
+          {
+            type: 'search',
             position: 'right',
           },
         ],
