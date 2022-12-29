@@ -1,4 +1,12 @@
+---
+description: ""
+---
+
 # FRR 教學
+
+:::note 本篇 Lab 相關附件
+本篇相關附件在[這裡](https://github.com/cloud-native-taiwan/Infra-Labs-Docs/tree/main/attachments/frr_bgp)
+:::
 
 ## 路由是什麼
 

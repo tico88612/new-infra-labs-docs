@@ -1,4 +1,12 @@
+---
+description: ""
+---
+
 # OpenStack 上利用 kops 搭建 K8S Cluster
+
+:::note 本篇 Lab 相關附件
+本篇相關附件在[這裡](https://github.com/cloud-native-taiwan/Infra-Labs-Docs/tree/main/attachments/kops)
+:::
 
 本次 lab 將會帶領大家利用 kops 在 OpenStack 上快速搭建一個 Kubernetes cluster。
 

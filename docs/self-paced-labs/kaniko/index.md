@@ -1,4 +1,13 @@
+---
+description: ""
+---
+
 # Kaniko 教學
+
+:::note 本篇 Lab 相關附件
+本篇相關附件在[這裡](https://github.com/cloud-native-taiwan/Infra-Labs-Docs/tree/main/attachments/kaniko_lab)
+:::
+
 Kaniko 是 Google 在 2018 年釋出的開源容器映像檔工具，最大的特點就是不需依賴於 Docker Daemon，所有操作都是在 user-space 執行。
 
 ## 前言

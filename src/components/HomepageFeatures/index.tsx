@@ -10,7 +10,7 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: '因為這裡有點空，所以先擺個 CNTUG Logo！',
+    title: '這裡有點空，先擺個 CNTUG Logo！',
     Svg: require('@site/static/img/logo.svg').default,
     description: (
       <>
